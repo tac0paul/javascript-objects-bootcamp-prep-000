@@ -1,3 +1,3 @@
 var playlist = {
-  Lebron James 
+  The Scorpions: "Rock Me Like a Hurricane"
 }
