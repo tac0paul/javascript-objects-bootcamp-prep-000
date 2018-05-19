@@ -1,5 +1,6 @@
 var playlist = {
-  TheScorpions: "Rock Me Like a Hurricane"
+  Slow Dive: "Alison"
+  
 }
 function updatePlaylist(playlist, artistName, songTitle)
 {
