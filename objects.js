@@ -1,5 +1,5 @@
 var playlist = { 
-  artistName: "Slowdive",
+  "Slowdive": "Alison",
   songTitle: "Alison",
 }
 
