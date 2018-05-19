@@ -1,4 +1,4 @@
-var playlist = new Object({'Slowdive': 'Alison', 'My Bloody Valentine':'Sometimes' })
+var playlist = new Object({artistName: songTitle});
 
 
 function updatePlaylist(playlist,artistName, songTitle)
