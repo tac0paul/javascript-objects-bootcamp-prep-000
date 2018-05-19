@@ -1,3 +1,3 @@
 var playlist = {
-  The Scorpions: "Rock Me Like a Hurricane"
+  TheScorpions: "Rock Me Like a Hurricane"
 }
